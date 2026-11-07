@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Arena_Shooter.umap"
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Arena_Shooter.umap",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/PlayerCharacter_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/AI_BT.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/Focus.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/MoveToLocation.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/Shoot.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/AI_BB.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/StopShooting.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/Wander.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Health_SpawnPoints/SpawnPoint.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Enemy_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Player_Widget.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/FirstArenaMode.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Controller_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Projectile_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Projectile_MAT.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Widgets/Score_W.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Enemy_W.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Widgets/Players_Arena.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/MoveTo.uasset"
 			]
 		}
 	]
