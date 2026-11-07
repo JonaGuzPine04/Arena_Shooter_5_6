@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Unreal Engine temporary and cached folders
+Arena_Shooter_5_6/Binaries/
+Arena_Shooter_5_6/Build/
+Arena_Shooter_5_6/DerviedDataCache/
+Arena_Shooter_5_6/Intermediate/
+Arena_Shooter_5_6/Saved/
+
+#Personal settings and source control locks
+Arena_Shooter_5_6/.vs/
+FArena_Shooter_5_6/*.sln
