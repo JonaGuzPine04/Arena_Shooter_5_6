@@ -26,6 +26,12 @@
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Widgets/Players_Arena.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/EnemyController_BP.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/EnemyProjectile_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Health_SpawnPoints/Pickup_Health.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Health_SpawnPoints/Health_MAT.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Health_SpawnPoints/Health_Pickup.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Extras/Cylinder.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Projectile_MAT.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/PlayerProjectile_MAT1.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/MoveTo.uasset"
 			]
 		}
