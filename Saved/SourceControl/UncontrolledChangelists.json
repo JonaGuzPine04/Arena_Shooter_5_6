@@ -24,6 +24,8 @@
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Widgets/Score_W.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Enemy_W.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/Player/Widgets/Players_Arena.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/EnemyController_BP.uasset",
+				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/EnemyProjectile_BP.uasset",
 				"C:/Users/guzma/Documents/Unreal Projects/Arena_Shooter5_6/Content/AI/Tasks/MoveTo.uasset"
 			]
 		}
